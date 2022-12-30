@@ -1,0 +1,5 @@
+sentencepiece==0.1.91
+scikit-learn==0.22
+tensorflow_hub==0.8.0
+python-mecab-ko==1.0.8
+matplotlib

@@ -1,0 +1,8 @@
+FROM tensorflow/tensorflow:1.15.0-gpu-py3
+WORKDIR /home/data
+COPY . .
+RUN apt-get install wget
+RUN pip install flask
+RUN pip install -r requirements.txt
+ENTRYPOINT ["python", "main.py"]
+EXPOSE 3306

@@ -1,0 +1,10 @@
+services:
+  flask_model:
+    image: team05/emotion_model
+    container_name: "would_you"
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - 3306:3306
+    restart: unless-stopped
