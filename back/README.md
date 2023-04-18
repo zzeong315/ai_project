@@ -31,8 +31,8 @@ $ npm run start:dev
 * Stamp : 일기를 기반으로 감정 분석, 날짜별 감정 조회   
 
 ### ERD
-[링크](https://dbdiagram.io/d/639abe5999cb1f3b55a1877c)
-![우쥬-최종](/uploads/96353421e7f0372a574b122365878635/우쥬-최종.png)
+<!-- [링크](https://dbdiagram.io/d/639abe5999cb1f3b55a1877c)
+![우쥬-최종](/uploads/96353421e7f0372a574b122365878635/우쥬-최종.png) -->
 
 ### Folder Structure
 ```bash

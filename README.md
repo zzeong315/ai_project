@@ -6,7 +6,7 @@
 ![로고](./front/public/mainlogo.png)
 
 - 개발 기간: 2022-11-14 ~ 2022-12-16
-- 서비스 링크: [https://kdt-ai5-team05.elicecoding.com](https://kdt-ai5-team05.elicecoding.com/)
+- 깃허브 링크: [https://github.com/zzeong315/ai_project](https://github.com/zzeong315/ai_project)
 - 본 프로젝트의 구조를 더 자세히 알고 싶다면?
   - [백엔드 README](./back/README.md)
   - [프론트엔드 README](./front/README.md)
@@ -41,7 +41,7 @@
 1. 프로젝트 레포지토리를 클론합니다.
 
 ```sh
-$ git clone https://kdt-gitlab.elice.io/ai_track/class05/ai_project/team05/team05.git
+$ git clone https://github.com/zzeong315/ai_project.git
 ```
 
 2. 프로젝트 실행에 필요한 패키지를 설치합니다.
@@ -64,10 +64,10 @@ $ yarn dev
 ## 주요 기능
 
 ### ✏ 소중한 사람과 **공용 일기장**을 만들어 서로의 일상을 공유할 수 있어요.  
-  <img src="/uploads/ae6b90ccf2d9100625d9db6ec4e10384/connect1.PNG" height="300">
+  <!-- <img src="/uploads/ae6b90ccf2d9100625d9db6ec4e10384/connect1.PNG" height="300">
   <img src="/uploads/13b842d222ff2ea2d93f56faf4f1e493/connect2.PNG" height="300">
   <img src="/uploads/ed4e1fbd091b2dd5ae5669cd47150820/diarylist.PNG" height="300">
-  <img src="/uploads/9c0423b294ff4a2343f07da297c43d27/calendar.PNG" height="300">
+  <img src="/uploads/9c0423b294ff4a2343f07da297c43d27/calendar.PNG" height="300"> -->
 
 + 마이페이지
   + 유저 코드를 입력하여 친구 요청
@@ -84,8 +84,8 @@ $ yarn dev
   + 분석된 감정 기록을 캘린더 형태로 제공 (나 & 상대방)
 
 ### 📌 추천받은 활동을 포함한 사용자의 일정을 **투두 리스트**로 관리할 수 있어요.   
-  <img src="/uploads/67bbe012d2e357de23bd7b88d268ff87/todo.PNG" height="300">
-  <img src="/uploads/8e1c8a897b22b1db667f109b5a7b7416/stamptod.PNG" height="300">
+  <!-- <img src="/uploads/67bbe012d2e357de23bd7b88d268ff87/todo.PNG" height="300">
+  <img src="/uploads/8e1c8a897b22b1db667f109b5a7b7416/stamptod.PNG" height="300"> -->
 
 + 일정 관리
   + 추천받은 활동은 자동으로 투두 리스트에 추가
@@ -94,8 +94,8 @@ $ yarn dev
   + 완료 표시 가능
 
 ### ⚙ 내 정보를 간편하게 관리할 수 있어요.
-  <img src="/uploads/188c742576476a35e9c7e7499aa6f78b/mypage.PNG" height="300">
-  <img src="/uploads/3de2f576e86b79fa102d874c9aa4d3a1/connectedit.PNG" height="300">
+  <!-- <img src="/uploads/188c742576476a35e9c7e7499aa6f78b/mypage.PNG" height="300">
+  <img src="/uploads/3de2f576e86b79fa102d874c9aa4d3a1/connectedit.PNG" height="300"> -->
   
 + 마이페이지
   + 닉네임, 비밀번호, 일기장 이름 수정 가능
